@@ -1,0 +1,74 @@
+ <div id="navcontainer">
+                      <ul>
+                     <li><a href="#">PRODUCT</a> 
+                    
+                     <ul>
+                     <li> <a href="#">Features</a></li><br>
+                     <li><a href="#">Enterprise</a></li><br>
+                     <li><a href="#">Security</a></li><br>
+                     <li><a href="#">Trust</a></li><br>
+                     <li><a href="#">Customer Services</a></li><br>
+                     <li><a href="#">Pricing</a></li><br>
+                     <li><a href="#">Slack Demo</a></li>
+                     </ul>                                                 
+                     
+                     </li> 
+                      </ul> 
+                    </div>
+
+                      <div>
+                          <li><a href="#">SLACK FOR TEAM</a>
+                           
+                            <ul>
+                             <li><a href="#">Engineering</a></li><br>
+                             <li> <a href="#">Financial Services</a></li><br>
+                             <li><a href="#">Sales</a></li><br>
+                             <li><a href="#">IT</a></li><br>
+                             <li><a href="#">Marketing</a></li><br>
+                             <li><a href="#">Customer Support</a> </li><br>
+                             <li><a href="#">Human Resources</a></li><br>
+                             <li><a href="#">Project Management</a></li><br>
+                             <li> <a href="#">Media</a></li>
+                                     
+                            </ul>
+                            
+                            </li> 
+
+                      </div>
+                     
+                        
+                       
+<!--                        
+                       <li> <a  href="#">RESOURCES</a>
+                       <ul>
+                       
+                       <li> <a href="#">Resources Library </a></li><br>
+                       <li> <a href="#">Slack Tips </a></li><br>
+                       <li> <a href="#">Blog </a></li><br>
+                       <li> <a href="#">Events </a></li><br>
+                       <li> <a href="#">Slack Certified Program </a></li><br>
+                       <li> <a href="#">Help Center </a></li><br>
+                       <li> <a href="#">API </a></li><br>
+                       <li> <a href="#">App Directory </a></li><br>
+                       <li> <a href="#">Download Slack </a></li><br>
+                       <li> <a href="#">Partners </a></li>
+                       </ul>          
+                       </li> 
+                     <li><a href="#contact">COMPANY</a>
+                     <ul>
+                     <li><a href="#">About Us </a></li><br>
+                     <li><a href="#">Leadership News </a></li><br>
+                     <li><a href="#">News </a></li><br>
+                     <li><a href="#">Media Kits </a></li><br>
+                     <li><a href="#">Careers </a></li><br>
+                     <li><a href="#">Slack Swag Store </a></li>
+                     </ul>                      
+                                             
+                     </li>
+                    
+                     
+                      </!--> -->
+                    
+                     
+                     </div>
+                      
